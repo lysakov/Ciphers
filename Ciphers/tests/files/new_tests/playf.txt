@@ -1,0 +1,14 @@
+encrypt
+moscowstateuniversity
+The Playfair cipher or Playfair square or Wheatstone-Playfair cipher is a manual symmetric 
+encryption technique and was the first literal digram substitution cipher.
+The scheme was invented in 1854 by Charles Wheatstone, but bears the name of Lord Playfair 
+for promoting its use. 
+The first well-documented description of a polyalphabetic cipher was formulated by Leon 
+Battista Alberti around 1467 and used a metal cipher disc to switch between cipher 
+alphabets. Alberti's system only switched alphabets after several words, and switches were 
+indicated by writing the letter of the corresponding alphabet in the ciphertext. Later, in 
+1508, Johannes Trithemius, in his work poligraphia, invented the tabula recta, a critical 
+component of the vigenère cipher. The Trithemius cipher, however, only provided a 
+progressive, rigid and predictable system for switching between cipher alphabets.[citation 
+needed]

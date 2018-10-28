@@ -1,0 +1,36 @@
+1
+1
+moscowstateuniversity
+tests/files/test.txt
+tests/files/tmp.txt
+1
+1
+2
+moscowstateuniversity
+tests/files/tmp.txt
+tests/files/result4.txt
+1
+2
+1
+moscowstateuniversity
+tests/files/test.txt
+tests/files/tmp.txt
+1
+2
+2
+moscowstateuniversity
+tests/files/tmp.txt
+tests/files/result5.txt
+1
+3
+1
+5, 7, 2,     3, 6, 9, 1,        10, 4, 8    
+tests/files/test.txt
+tests/files/tmp.txt
+1
+3
+2
+5, 7, 2, 3, 6, 9, 1, 10, 4, 8
+tests/files/tmp.txt
+tests/files/result2.txt
+0
